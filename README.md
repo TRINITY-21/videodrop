@@ -242,5 +242,5 @@ MIT
 ---
 
 <p align="center">
-  Built by <a href="https://github.com/TRINITY-21">Joe</a>
+  Built by <a href="https://github.com/TRINITY-21">TRINITY</a>
 </p>
